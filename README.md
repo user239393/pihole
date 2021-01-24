@@ -1,7 +1,7 @@
-# pihole
+# pihole Windows 10 blockList
 
-# According to BSI https://www.privacy-handbuch.de/handbuch_90a2.htm
-# https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Empfehlungen/SiSyPHuS_Win10/AP4/SiSyPHuS_AP4_node.html
+According to BSI https://www.privacy-handbuch.de/handbuch_90a2.htm
+https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Empfehlungen/SiSyPHuS_Win10/AP4/SiSyPHuS_AP4_node.html
 
 geo.settings-win.data.microsoft.com.akadns.net
 db5-eap.settings-win.data.microsoft.com.akadns.net
