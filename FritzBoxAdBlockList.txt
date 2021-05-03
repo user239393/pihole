@@ -40,7 +40,7 @@ webtrekk.net
 yieldlab.net
 omtrdc.net
 secure-gg.imrworldwide.com
-###### Spotify Ad Block Start
+######SpotifyAdBlockStart
 scorecardresearch.com
 branch.io
 heads-ak-spotify-com.akamaized.net
@@ -58,4 +58,4 @@ bloodhound.spotify.com
 audio4-fa.scdn.co
 canvaz.scdn.co
 video-akp-cdn-spotify-com.akamaized.net
-###### Spotify Ad Block End
+######SpotifyAdBlockEnd
